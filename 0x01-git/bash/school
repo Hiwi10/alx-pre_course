@@ -1,0 +1,9 @@
+#! /bin/bash
+echo "school"
+^C
+ls
+cd alx-pre_course/0x01-git
+#!/bin/bash
+echo "school"
+^C
+^c
