@@ -1,8 +1,2 @@
-#! /bin/bash
-echo "ALX" 
-^C
-
-Vhjhhhhhhhu
-
-^c
-clear 
+#!/bin/bash
+echo "ALX"
